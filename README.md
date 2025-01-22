@@ -12,11 +12,11 @@
 ## 📊 GitHub Stats
 
 ### 🚀 General Statistics
-![Giancarlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giancarloperdum&show_icons=true&theme=radical&count_private=true&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarloperdum&layout=compact&theme=radical&langs_count=6)
+![Giancarlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gianverdum&show_icons=true&theme=radical&count_private=true&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gianverdum&layout=compact&theme=radical&langs_count=6)
 
 ### 📈 Contribution Activity
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=giancarloperdum&theme=radical&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gianverdum&theme=radical&hide_border=true)
 
 ---
 
@@ -46,7 +46,7 @@ A SaaS platform for auto repair shops, streamlining operations and scheduling.
 
 ## 🔥 Most Used Languages
 
-![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarloperdum&layout=compact&theme=radical&langs_count=6)
+![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=gianverdum&layout=compact&theme=radical&langs_count=6)
 
 ---
 
