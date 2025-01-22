@@ -62,7 +62,7 @@ A SaaS platform for auto repair shops, streamlining operations and scheduling.
 
 ---
 
-<div align="center" style="background-color:#141321; padding: 15px; border-radius: 10px;">
+<div align="left" style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
 Thank you for visiting my profile! 😊
 
