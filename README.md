@@ -62,19 +62,6 @@ A SaaS platform for auto repair shops, streamlining operations and scheduling.
 
 ---
 
-## 🏆 Achievements
-
-<div style="background-color:#141321; padding: 15px; border-radius: 10px;">
-
-- **Total Contributions**: 677 (March 6, 2021 – Present)
-- **Longest Streak**: 11 days (Nov 4, 2024 – Nov 14, 2024)
-- **Pull Requests**: 77
-- **Total Commits**: 246 (2025)
-
-</div>
-
----
-
 <div align="center" style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
 Thank you for visiting my profile! 😊
