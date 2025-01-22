@@ -1,6 +1,6 @@
 # Giancarlo Verdum
 
-<div align="center" style="background-color:#141321; padding: 15px; border-radius: 10px;">
+<div align="left" style="background-color:#141321; padding: 15px; border-radius: 10px;">
 
 🌟 Welcome to my GitHub profile! 🚀
 
