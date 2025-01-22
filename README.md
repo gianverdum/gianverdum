@@ -13,7 +13,9 @@
 
 ### 🚀 General Statistics
 ![Giancarlo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gianverdum&show_icons=true&theme=radical&count_private=true&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gianverdum&layout=compact&theme=radical&langs_count=6)
+
+### 🔥 Most Used Languages
+![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=gianverdum&layout=compact&theme=radical&langs_count=6)
 
 ### 📈 Contribution Activity
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gianverdum&theme=radical&hide_border=true)
@@ -23,11 +25,6 @@
 ## 🌟 About Me
 
 I am a Full Stack Python Developer transitioning from a 14-year career in Software Quality Assurance to full-time development. My projects focus on delivering scalable, efficient solutions for SaaS platforms, RESTful APIs, and cloud-based applications.
-
-### 🛠️ Skills
-- **Programming**: Python (FastAPI, SQLAlchemy), JavaScript, Dart, PHP
-- **Databases**: PostgreSQL, Supabase, Firebase
-- **Tools**: Docker, Vercel, Git, Jira
 
 ---
 
@@ -41,21 +38,6 @@ A business networking event management app with dynamic table rotations and real
 
 ### [eMecânico (Private repo)](#)
 A SaaS platform for auto repair shops, streamlining operations and scheduling.
-
----
-
-## 🔥 Most Used Languages
-
-![Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=gianverdum&layout=compact&theme=radical&langs_count=6)
-
----
-
-## 🏆 Achievements
-
-- **Total Contributions**: 677 (March 6, 2021 – Present)
-- **Longest Streak**: 11 days (Nov 4, 2024 – Nov 14, 2024)
-- **Pull Requests**: 77
-- **Total Commits**: 246 (2025)
 
 ---
 
