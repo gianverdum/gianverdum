@@ -36,7 +36,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
