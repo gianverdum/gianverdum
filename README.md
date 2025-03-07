@@ -108,12 +108,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🔥 My Stats :
 
-###
-
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=gianverdum)](https://git.io/streak-stats)
-</div>
-
-###
+[![GitHub Streak](https://streak-stats.demolab.com?user=gianverdum&theme=default&hide_border=false&border_radius=4.5&locale=en)](https://git.io/streak-stats)
