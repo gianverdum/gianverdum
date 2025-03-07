@@ -110,4 +110,5 @@
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gianverdum&theme=default)](https://git.io/streak-stats)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=gianverdum&count_private=true&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianverdum&layout=compact)
