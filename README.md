@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/v2/D4E16AQGA8LfF1pBK9Q/profile-displaybackgroundimage-shrink_350_1400/B4EZU.DqG1HMAg-/0/1740502902005?e=1746662400&v=beta&t=gQ90KkeNrMHBiCnYbSFgT3rLGJJuvzGRTTrjzwdofOU"  />
-</div>
+###
+
+<h1 align="center">🌟 Welcome to my GitHub profile! 🚀</h1>
 
 ###
 
@@ -14,10 +14,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gianverdum.gianverdum&"  />
 </div>
-
-###
-
-<h1 align="center">🌟 Welcome to my GitHub profile! 🚀</h1>
 
 ###
 
