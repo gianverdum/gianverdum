@@ -110,5 +110,17 @@
 
 ### 🔥 My Stats :
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=gianverdum&count_private=true&show_icons=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianverdum&layout=compact)
+<div align="center">
+  <!-- Overall Stats -->
+  <img
+    height="150em"
+    src="https://github-readme-stats.vercel.app/api?username=gianverdum&count_private=true&show_icons=true&hide=contribs"
+    alt="Overall Stats"
+  />
+  <!-- Top Languages -->
+  <img
+    height="150em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianverdum&layout=compact"
+    alt="Top Langs"
+  />
+</div>
