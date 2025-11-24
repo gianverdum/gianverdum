@@ -1,20 +1,18 @@
-###
+<h1 align="center">🌟 Welcome! 🚀</h1>
 
-<h1 align="center">🌟 Welcome to my GitHub profile! 🚀</h1>
+<p align="center">
+Here you'll find my experiments, real-world projects and the occasional over-engineered solution — all carefully crafted so future-me can understand them too.
+</p>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVrYm8yZmRsYnR4OGp1d2E1Y3NrdnEyaGUxa3ZubDBzYTdxb2xldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abB06u9bNzA8lu8/giphy.gif" width="400"/>
+</p>
 
-<div align="center">
-  <!-- Discord: Goes to the Discord homepage (no direct user link available by default) -->
-  <a href="https://discord.gg/uzMnMpD3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
-  </a>
-
-  <!-- LinkedIn: Direct link to your profile -->
-  <a href="https://www.linkedin.com/in/giancarloverdum/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/giancarloverdum/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+</a>
+</p>
 
 ###
 
